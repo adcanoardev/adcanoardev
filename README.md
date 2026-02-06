@@ -1,78 +1,84 @@
-<h1 align="center">Hey 👋 What's up?</h1>
 
-###
-
-<p align="center">My name is Adrian and I'm a Full Stack Developer from Barcelona, Spain.</p>
-
-###
 
 <div align="center">
   <img height="400" src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"  />
 </div>
 
-###
+<h1 align="center">Hi there, I'm Adrian 👋</h1>
 
-<h2 align="center">About me</h2>
+<h3 align="center">
+  🚀 DevOps & Cloud Engineer in Training | Full Stack Background
+</h3>
 
-###
+<p align="center">
+  Based in <b>Barcelona, Spain 🇪🇸</b>
+</p>
 
-<p align="center">✨ Creating bugs since 2022.<br>📚 I'm currently doing React Projects.<br>🎯 Goals: Senior Full Stack Developer.<br>🎲 Fun fact:  +[] == +![]; //true</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adriandearias/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
+<p align="center">
+  I used to build applications; <b>now I build the platforms they run on.</b><br>
+  My background in Full Stack development allows me to understand the entire software lifecycle,<br> 
+  bridging the gap between development teams and operations through automation and resilient infrastructure.
+</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="200"/>
 </div>
 
-###
+---
+
+### 🛠️ Cloud & DevOps Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriandearias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 
-###
+### 💻 Programming Background
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+</div>
+
+---
+
+### 🔭 Current Roadmap & Projects (2024-2025)
+
+I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engineering. Here is my progress:
+
+| Phase | Focus | Repository | Status |
+| :--- | :--- | :--- | :--- |
+| **I** | **Linux & Automation** | [📂 ops-linux-automation](https://github.com/adriandearias/ops-linux-automation) | 🟡 In Progress |
+| **II** | **Docker & CI/CD** | [📂 backend-dockerized-ci](https://github.com/adriandearias/backend-dockerized-ci) | ⚪ Planned |
+| **III** | **Kubernetes Platform** | [📂 k8s-cloud-platform](https://github.com/adriandearias/k8s-cloud-platform) | ⚪ Planned |
+| **IV** | **Observability** | [📂 observability-stack](https://github.com/adriandearias/observability-stack) | ⚪ Planned |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/adriandearias/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adriandearias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adrian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriandearias&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=html,css" alt="Top Languages" />
 </div>
 
-###
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/adcanoar/">
+      <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+  <i>"Treat your servers like cattle, not pets." 🐮</i>
+</div>
 
