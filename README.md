@@ -51,10 +51,10 @@ I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engin
 
 | Phase | Focus | Repository | Status |
 | :--- | :--- | :--- | :--- |
-| **I** | **Linux & Automation** | [📂 ops-linux-automation](https://github.com/adriandearias/ops-linux-automation) | 🟡 In Progress |
-| **II** | **Docker & CI/CD** | [📂 backend-dockerized-ci](https://github.com/adriandearias/backend-dockerized-ci) | ⚪ Planned |
-| **III** | **Kubernetes Platform** | [📂 k8s-cloud-platform](https://github.com/adriandearias/k8s-cloud-platform) | ⚪ Planned |
-| **IV** | **Observability** | [📂 observability-stack](https://github.com/adriandearias/observability-stack) | ⚪ Planned |
+| **I** | **Linux & Automation** | [📂 ops-linux-automation](https://github.com/adcanoardev/ops-linux-automation) | 🟡 In Progress |
+| **II** | **Docker & CI/CD** | [📂 backend-dockerized-ci](https://github.com/adcanoardev/backend-dockerized-ci) | ⚪ Planned |
+| **III** | **Kubernetes Platform** | [📂 k8s-cloud-platform](https://github.com/adcanoardev/k8s-cloud-platform) | ⚪ Planned |
+| **IV** | **Observability** | [📂 observability-stack](https://github.com/adcanoardev/observability-stack) | ⚪ Planned |
 
 ---
 
