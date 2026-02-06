@@ -42,7 +42,7 @@
 
 ---
 
-### 🔭 Current Roadmap & Projects (2024-2025)
+### 🔭 Current Roadmap & Projects (2026)
 
 I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engineering. Here is my progress:
 
@@ -55,12 +55,6 @@ I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engin
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriandearias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adrian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adriandearias&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=html,css" alt="Top Languages" />
-</div>
 
 <div align="center">
   <p>
