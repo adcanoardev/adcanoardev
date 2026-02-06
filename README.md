@@ -1,29 +1,18 @@
-
-
-<div align="center">
-  <img height="400" src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"  />
-</div>
-
 <h1 align="center">Hi there, I'm Adrian 👋</h1>
-
 <h3 align="center">
   🚀 DevOps & Cloud Engineer in Training | Full Stack Background
 </h3>
-
 <p align="center">
   Based in <b>Barcelona, Spain 🇪🇸</b>
 </p>
-
 <p align="center">
   I used to build applications; <b>now I build the platforms they run on.</b><br>
   My background in Full Stack development allows me to understand the entire software lifecycle,<br> 
   bridging the gap between development teams and operations through automation and resilient infrastructure.
 </p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="200"/>
+  <img height="400" src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"  />
 </div>
-
 ---
 
 ### 🛠️ Cloud & DevOps Stack
