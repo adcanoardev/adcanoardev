@@ -20,11 +20,16 @@
 ### 🛠️ Technology Stack
 
 <p align="center">
+  <b>Frontend & UI</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br>
   <b>Backend & Logic</b><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <br>
   <b>Infrastructure & Automation</b><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -47,9 +52,9 @@ Currently undergoing an intensive hybrid roadmap to master **SaaS Development & 
 | Phase | Project & Goal | Main Tech | Status |
 | :--- | :--- | :--- | :--- |
 | **I** | **[System CLI Tools](https://github.com/adcanoardev/ops-linux-automation)** | Node.js, Linux, Bash | 🟡 In Progress |
-| **II** | **[Health-Check Dashboard](https://github.com/adcanoardev/backend-dockerized-ci)** | Node.js, Docker, CI/CD | ⚪ Planned |
-| **III** | **[Multi-Tenant SaaS Boilerplate](https://github.com/adcanoardev/k8s-cloud-platform)** | Hexagonal Arch, K8s, React | ⚪ Planned |
-| **IV** | **[Log-Aggregator & Alerter](https://github.com/adcanoardev/observability-stack)** | Redis, Terraform, Streams | ⚪ Planned |
+| **II** | **[Health-Check Dashboard](https://github.com/adcanoardev/backend-dockerized-ci)** | React, Node.js, Docker | ⚪ Planned |
+| **III** | **[Multi-Tenant SaaS Boilerplate](https://github.com/adcanoardev/k8s-cloud-platform)** | Hexagonal Arch, K8s, Stripe | ⚪ Planned |
+| **IV** | **[Log-Aggregator & Alerter](https://github.com/adcanoardev/observability-stack)** | Redis, Terraform, Grafana | ⚪ Planned |
 
 ---
 
@@ -59,5 +64,5 @@ Currently undergoing an intensive hybrid roadmap to master **SaaS Development & 
       <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-  <i>"Treat your servers like cattle, not pets... and your code like an asset, not a liability." 🐮</i>
+  <i>"Code is poetry, but Infrastructure is the stage where it performs." 🎭</i>
 </div>
