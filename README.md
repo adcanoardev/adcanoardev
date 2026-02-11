@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Adrian 👋</h1>
 <h3 align="center">
-  🚀 DevOps & Cloud Engineer in Training | Full Stack Background
+  🚀 Systems Engineer | Full Stack SaaS Developer 
 </h3>
 <p align="center">
   Based in <b>Barcelona, Spain 🇪🇸</b>
 </p>
 <p align="center">
-  I used to build applications; <b>now I build the platforms they run on.</b><br>
-  My background in Full Stack development allows me to understand the entire software lifecycle,<br> 
-  bridging the gap between development teams and operations through automation and resilient infrastructure.
+  <b>10 years of SysAdmin expertise meet Modern Full Stack Development.</b><br>
+  I don't just build platforms; I build the applications that thrive on them.<br> 
+  Bridging the gap between <b>clean code</b> and <b>resilient infrastructure</b> through automation and Cloud-Native logic.
 </p>
 
 <div align="center">
@@ -17,44 +17,39 @@
 
 ---
 
-### 🛠️ Cloud & DevOps Stack
+### 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" align="center" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" align="center" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" align="center" />
+  <b>Backend & Logic</b><br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" align="center" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" align="center" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" align="center" />
+  <b>Infrastructure & Automation</b><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <br>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GH Actions" align="center" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" align="center" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" align="center" />
-</p>
-
-### 💻 Programming Background
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JS" align="center" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TS" align="center" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" align="center" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node" align="center" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" align="center" />
+  <b>Cloud & Observability</b><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ---
 
-### 🔭 Current Roadmap & Projects (2026)
+### 🔭 Project Roadmap (2026)
 
-I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engineering. Here is my progress:
+Currently undergoing an intensive hybrid roadmap to master **SaaS Development & Cloud Engineering**.
 
-| Phase | Focus | Repository | Status |
+| Phase | Project & Goal | Main Tech | Status |
 | :--- | :--- | :--- | :--- |
-| **I** | **Linux & Automation** | [📂 ops-linux-automation](https://github.com/adcanoardev/ops-linux-automation) | 🟡 In Progress |
-| **II** | **Docker & CI/CD** | [📂 backend-dockerized-ci](https://github.com/adcanoardev/backend-dockerized-ci) | ⚪ Planned |
-| **III** | **Kubernetes Platform** | [📂 k8s-cloud-platform](https://github.com/adcanoardev/k8s-cloud-platform) | ⚪ Planned |
-| **IV** | **Observability** | [📂 observability-stack](https://github.com/adcanoardev/observability-stack) | ⚪ Planned |
+| **I** | **[System CLI Tools](https://github.com/adcanoardev/ops-linux-automation)** | Node.js, Linux, Bash | 🟡 In Progress |
+| **II** | **[Health-Check Dashboard](https://github.com/adcanoardev/backend-dockerized-ci)** | Node.js, Docker, CI/CD | ⚪ Planned |
+| **III** | **[Multi-Tenant SaaS Boilerplate](https://github.com/adcanoardev/k8s-cloud-platform)** | Hexagonal Arch, K8s, React | ⚪ Planned |
+| **IV** | **[Log-Aggregator & Alerter](https://github.com/adcanoardev/observability-stack)** | Redis, Terraform, Streams | ⚪ Planned |
 
 ---
 
@@ -64,5 +59,5 @@ I am currently undergoing an intensive **5-month Roadmap** to master Cloud Engin
       <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-  <i>"Treat your servers like cattle, not pets." 🐮</i>
+  <i>"Treat your servers like cattle, not pets... and your code like an asset, not a liability." 🐮</i>
 </div>
