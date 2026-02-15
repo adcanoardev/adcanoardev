@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adrián 👋</h1>
 
 <h3 align="center">
-  🧱 DevOps Engineer in Progress | Linux • Automation • Cloud-Native
+  🧱 DevOps Engineer | Linux • Automation • Cloud-Native
 </h3>
 
 <p align="center">
@@ -83,16 +83,6 @@
 
 <div>
 
----
-
-<h2 align="center">🎯 Current Objective</h2>
-
-<p align="center">
-  Transition into a <b>DevOps / Platform Engineer role (Remote)</b><br>
-  Focused on automation, reliability and production-ready infrastructure.
-</p>
-
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adcanoar/">
