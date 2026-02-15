@@ -45,7 +45,7 @@
 
 <h2 align="center">🛠️ Core Stack</h2>
 
-<p align="center">
+<div align="center">
 
   <b>🧠 Systems & Automation</b><br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge" />
 
-</p>
+<div>
 
 ---
 
