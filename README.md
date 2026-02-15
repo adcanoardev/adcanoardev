@@ -41,16 +41,56 @@ Everything documented with:
 
 ## 🛠️ Core Stack
 
-### 🧠 Systems & Automation
-Linux • Bash • Systemd • SSH Hardening • Networking • Firewall
+<p align="center">
 
-### 🐳 Containers & Orchestration
-Docker • Docker Compose • Kubernetes • Helm (in progress)
+  <b>🧠 Systems & Automation</b><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge" />
+  <br><br>
 
-### ☁️ Infrastructure as Code
-Terraform • Modular Environments • State Management
+  <b>🐳 Containers & Orchestration</b><br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <br><br>
 
-### 📊 Observability
-Prometheus • Grafana • Loki • Logging & Alerting
+  <b>☁️ Infrastructure as Code</b><br>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modular_Infrastructure-5C4EE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Environment_Separation-6C63FF?style=for-the-badge" />
+  <br><br>
 
-### 💻 Developmen
+  <b>📊 Observability</b><br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Alerting-FF4D4D?style=for-the-badge" />
+  <br><br>
+
+  <b>💻 Development</b><br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge" />
+
+</p>
+
+## 🎯 Current Objective
+
+Transition into a **DevOps / Platform Engineer role (Remote)**  
+Focused on automation, reliability and production-ready infrastructure.
+
+---
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/adcanoar/">
+      <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  <i>"Infrastructure is invisible when it's done right." 🚀</i>
+</div>
