@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  📍 Barcelona, Spain 🇪🇸 | 🌍 Open to Remote Opportunities
+  📍 Barcelona, Spain 🇪🇸 | 🌍 
 </p>
 
 <p align="center">
