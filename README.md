@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adrián 👋</h1>
+<h1 align="center">Hi, I'm Adrian 👋</h1>
 
 <h3 align="center">
   💻 Full Stack Developer | 🐧 Systems Administrator Background
@@ -61,5 +61,5 @@
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br><br>
-  <i>"Building reliable software, not just writing code." 🚀</i>
+  <i>"Building reliable software, not just writing code." 🚀 </i>
 </div>
