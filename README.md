@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Adrián 👋</h1>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
        alt="Coding banner"
-       height="180" />
+       height="300" />
 </div>
 
 <br/>
