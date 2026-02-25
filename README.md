@@ -2,11 +2,12 @@
 
 <div align="center">
   <img src="https://res.cloudinary.com/dtmrroz8t/image/upload/v1747772320/user__2_funba7.gif"
-       alt="Adrián coding banner"
-       width="1000" />
+       alt="Coding banner"
+       height="180" />
 </div>
 
 <br/>
+
 <h3 align="center">
   ☁️ DevOps / Cloud Engineer (in progress) | 🐧 8+ years Systems Administration | 💻 Full-Stack Background
 </h3>
